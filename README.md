@@ -1,4 +1,4 @@
-# ShanghaiTech-poster
+# ShanghaiTech-poster-template
 
 :wave:Hello there! I'm Wanxing Chang, a master student at ShanghaiTech University. 
 
